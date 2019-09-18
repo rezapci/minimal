@@ -1,6 +1,6 @@
 # jekyll-theme-awesome
 
-<i class="fab fa-github">/canvas.png</i>
+<i class="fa fa-github" aria-hidden="true"></i>
 
 Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
 
